@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hit-R-miss</string>
+    <string name="menu_new_game">New Game</string>
+    <string name="menu_quit">Quit</string>
+    <string name="menu_setting">Restart</string>
+    <string name="dialog_message">Oops....Game over.....</string>
+</resources>
